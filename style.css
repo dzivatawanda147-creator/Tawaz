@@ -66,7 +66,7 @@
         #hero {
             text-align: center;
             padding: 100px 20px;
-            background: var(--secondary-color);
+            background: rgb(243, 246, 245) ;
             border-bottom: 5px solid var(--accent-color);
         }
 
@@ -84,7 +84,7 @@
         /* --- 4. Portfolio Section --- */
         #portfolio {
             padding: 60px 0;
-            background: #fff;
+            background: #e7e5ebde;
         }
 
         .project-grid {
@@ -135,7 +135,7 @@
         /* --- 5. About Section --- */
         #about {
             padding: 60px 0;
-            background: var(--secondary-color);
+            background: rgba(231, 230, 228, 0.688);
         }
 
         .about-content {
@@ -213,4 +213,5 @@
                 margin: 5px 0;
             }
         }
+
 
